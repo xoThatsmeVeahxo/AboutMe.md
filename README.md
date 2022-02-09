@@ -4,4 +4,4 @@
 # Favorite Languages
 - 🌺 Python, GO, HTML, CSS
 # Experience
-- GWC - "Make space for women."
+- 🌺 GWC - "Make space for women."
